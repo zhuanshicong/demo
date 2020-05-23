@@ -10,5 +10,848 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "resumeReadData":{
+    "theme": {
+        "leftbackgroundcolor": "#e6e6e6"
+    },
+    "resumeInfo": {
+        "pic": "http:\/\/img.jiaobu365.com\/.\/picture\/2016-05-03\/5728020845bc4.jpg",
+        "url": "\/temp\/index\/aid\/1060.html",
+        "name": "行政专员",
+        "used": "155579",
+        "id": "1060",
+        "cat": [{
+                "name": "IT\/互联网"
+            },
+            {
+                "name": "职能",
+                "url": "\/resume_51\/",
+                "id": "51"
+            }
+        ]
+    },
+    "resumeData": [{
+            "flag": "left",
+            "type": "avatar",
+            "title": "个人照片",
+            "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAADBCAMAAAAaVLmfAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAMAUExURf///0JCUkJKUjpCQkpCUu/v9zoxShAQCObm5hAACCEQCEJCQkpSUjE6QvfFtaVzWikQEN61lPfexTExQlJKY8WUhK17a0oxMdbO1ikhOvfOvSkxMaWMjLWMa0IpGe/FrToZvXtSEBAZvWMZvbV7EOZzY4RrY7Wtve+1pTqlWjql3jqlGTqlnBClWhCl3hClGRClnDp7Wjp73jp7GTp7nBB7WhB73hB7GRB7nGPv3mPvWjrOWjrO3mPvnGPvGTrOGTrOnGPF3mPFWhDOWhDO3mPFnGPFGRDOGRDOnGN7nGN73rVa7+YZa7VarbUZKSkpKRkhKbVazuYZSrVajLUZCMV7Y+bvY+beMeYp3uYpnK3ezubOY+YI3uYInK2tnDE6GXMpEN61pToxQoSUnAAAAN6ljDpKvRBKvXtKc2NKveZ7EDEZIWNzY0oQEM6lhDoZ72OcY/fOxRAZ7+aMxeaM72MZ77WtEDoZcxAZc2MZc+aMlO+lY86llN6lnOZa7+ZKa3spQoSUY+ZarbVKKa0Za+YZKYQZvbV7MRBKSnsIEOZazuZKSnsIQuZajLVKCK0ZSuYZCK1KSs7e74Tv3mtSUoTvWjrvWjrv3oTvnITvGTrvGTrvnITF3oTFWhDvWhDv3oTFnITFGRDvGRDvnGOcnGOc3kpSGa3e74R73uatvYRznO/v5ubFnCkhEDpK74RSOhAQSq2MxRBK72NK7+atEDpKc62M7xBKc+bW5v/v93tKlOZKKYScIa1Ka+/mnIRKveZ7Mc6cc0oQQuZKCGtKOuat762tY4QZ77WtMToZlBAZlBBKKWMZlK3vpbXvEIQZcxBKCK3OpbXOEPfmzhAQIYSc3lpKjGN7EIRK7+atMTpKlK2t7xBKlObvEObOEM7OpYQZlLXvMc7vpbXvc7Up77UprbXOc7UI77UIrbXOMbXvUrUpzrUpjLXOUrUIzrUIjNbm1mN7MWOcEIR7EO+1lM6lUsWMnGOcMYR7MVpaYzpCUjFSSjpSSkJaUv//7wAAAAIj/1cAAAEAdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wBT9wclAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAlV0lEQVR4Xu2cz24i6bblQYAxiduAAwgCTKAeJPAqPTohXXmSA7swIJUULqSc5gH1uQ9wBy7xDEfKxIjuQUl4cEqyxAu0yj3OV2CAUoJqSv1bO8KVWVlVt2/dMnWv1PVh/sWfL1asvfb69hdBZuI/cfvhD3r+tP36Gmufrj7AU29Pr5+0n23xWWPhjLff87ynl8wvP229tR8P/oM9Mj8+f6VphfZRB/++dx3G+tHbp+8fP9jWH1uGFbbYtrCtftY+Qv4d73Qdnb6OEb8bZdEWnzSdBk1bGNafb2FNi3myifX1m975EwT9iQC1T6HZmzXWPp0DjY/srmZbxnv+tLF/tAdb2off9m7HMwzWkb1HzVZ+2uJws5+W8/Zx25+1eM8YcnSmv+X945dPljwd7pOjPi03NFH75OMvtBi93vnTOfJUh9G3iM1f+C5ufvzCOp7RlwhB3LRh9P4Ux3g/+/yrLd7H+o1a3JEW8G7rP/+u1+gYatGiuIPoyyctirJ24PnE8qe7/0qz1NDWH08jPpkIbUTBT75Hmz19sDc1VkZ/P20fsbBKOzx9/VdatIm6ferOdmNBvLsdUZ8//a4Wdx5950v8/bP2lIO8//IGv9Ji+AJlThKf0Y/vWk3HGev9x+/8RTvaI14fOVGE86dN+7E86v7f3OI8/IUOTRS8R3g4dvw9ahHWeP0nfXy6Rfz+4wZ/tj/bn+3P9mf7s/3/0X7LSHzgtmai+J+s/dBpJ910//K8f15bx8v+w9usv3WL2WIxlw1ehIGf7nf+45k7T29vwmwxCOfBvFgMisVsLpfz0+47sfaTKc4f19bvTqApBA3AIlD6DsDBwO1fLuPN/tj2Qz8szoMwAM78cV4M53x7nAfZuZgLXuRywR/N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",
+            "page": 1,
+            "index": 0,
+            "height": 242
+        },
+        {
+            "flag": "left",
+            "type": "information",
+            "title": "个人资料 Personal Info",
+            "icon": {
+                "type": "0",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "styles": {
+                "type": "0",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "items": [{
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "生日",
+                    "value": "1998/9/9"
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "性别",
+                    "value": "女"
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "籍贯",
+                    "value": "广东"
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "政治面貌",
+                    "value": "党员"
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "专业",
+                    "value": "会计"
+                }
+            ],
+            "page": 1,
+            "index": 2,
+            "height": 236
+        },
+        {
+            "flag": "left",
+            "type": "contact",
+            "title": "联系方式 Contact Info",
+            "icon": {
+                "type": "0",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "styles": {
+                "type": "0",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "items": [{
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "手    机：",
+                    "value": "158-8888-8688"
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "邮    箱：",
+                    "value": "123456@qq.com"
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "地    址：",
+                    "value": "北京市清华大学"
+                }
+            ],
+            "page": 1,
+            "index": 3,
+            "height": 236
+        },
+        {
+            "flag": "left",
+            "type": "skill",
+            "title": "职业技能 Vocational Skills",
+            "icon": {
+                "type": "0",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "styles": {
+                "type": "0",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "items": [{
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "Word",
+                    "value": 80
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "Ai",
+                    "value": 50
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "PPT",
+                    "value": 90
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "PS",
+                    "value": 30
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "flash",
+                    "value": 80
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "Dreamweaver",
+                    "value": 100
+                }
+            ],
+            "page": 1,
+            "index": 4,
+            "height": 479
+        },
+        {
+            "flag": "left",
+            "type": "skill",
+            "title": "职业技能 Vocational Skills",
+            "icon": {
+                "type": "0",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "styles": {
+                "type": "0",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "items": [{
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "Word",
+                    "value": 80
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "Ai",
+                    "value": 50
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "PPT",
+                    "value": 90
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "PS",
+                    "value": 30
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "flash",
+                    "value": 80
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "Dreamweaver",
+                    "value": 100
+                }
+            ],
+            "page": 1,
+            "index": 5,
+            "height": 479
+        },
+        {
+            "flag": "left",
+            "type": "skill",
+            "title": "职业技能 Vocational Skills",
+            "icon": {
+                "type": "0",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "styles": {
+                "type": "0",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "items": [{
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "Word",
+                    "value": 80
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "Ai",
+                    "value": 50
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "PPT",
+                    "value": 90
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "PS",
+                    "value": 30
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "flash",
+                    "value": 80
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "Dreamweaver",
+                    "value": 100
+                }
+            ],
+            "page": 1,
+            "index": 6,
+            "height": 479
+        },
+        {
+            "flag": "left",
+            "type": "profile",
+            "title": "名字&意向",
+            "name": "简秀才",
+            "jobpost": "会计",
+            "page": 1,
+            "index": 1,
+            "height": 121
+        },
+        {
+            "flag": "right",
+            "type": "education",
+            "title": "教育背景",
+            "icon": {
+                "type": "1",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "styles": {
+                "type": "4",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "items": [{
+                    "labelicon": "",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "time": "2011~ 2015",
+                    "school": "清华大学",
+                    "education": "本科",
+                    "profession": "会计",
+                    "content": "政治经济学、西方经济学、国际经济学、计量经济学、世界经济概论、国际贸易理论与实务、国际金融、国际结算、货币银行学、财政学、会计学、统计学等"
+                },
+                {
+                    "titleicon": "",
+                    "contenticon": "",
+                    "time": "2011~ 2015",
+                    "school": "清华大学",
+                    "education": "本科",
+                    "profession": "会计",
+                    "content": "政治经济学、西方经济学、国际经济学、计量经济学、世界经济概论、国际贸易理论与实务、国际金融、国际结算、货币银行学、财政学、会计学、统计学等"
+                }
+            ],
+            "page": 1,
+            "index": 1,
+            "height": 152
+        },
+        {
+            "flag": "right",
+            "type": "experience",
+            "title": "工作经历",
+            "icon": {
+                "type": "1",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "styles": {
+                "type": "4",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "items": [{
+                    "labelicon": "",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "time": "2014.06~2015.02 ",
+                    "company": "奇虎360科技有限公司",
+                    "post": "实习生",
+                    "content": [
+                        "1、\t负责原始凭证（纸质版/电子版）的维护与整理工作",
+                        "2、\t负责结算发票的审核计算，年审与季审的抽凭工作",
+                        "3、\t负责与总账、出纳及其他各组的交接工作，进行付款单核对",
+                        "4、\t在6个月实习期间，将26家公司主体10个月的5400份凭证装订成册"
+                    ]
+                },
+                {
+                    "time": "2014.03~2014.06 ",
+                    "company": "中以联科电子安装工程公",
+                    "post": "实习生",
+                    "content": [
+                        "1、根据公司财务的要求，审核并处理员工个人费用及公司的一般经费",
+                        "2、使用NetSuite系统录入凭证及会计批准工作，协助AP会计完成付款",
+                        "3、会计凭证、账簿及其他财务资料整理归档，发票购领、开具及登记保管"
+                    ]
+                }
+            ],
+            "page": 1,
+            "index": 2,
+            "height": 152
+        },
+        {
+            "flag": "right",
+            "type": "award",
+            "title": "荣誉证书",
+            "icon": {
+                "type": "1",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "styles": {
+                "type": "4",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "items": [{
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "time": "2020-10-10",
+                    "award": "初级会计证"
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "time": "2020-10-10",
+                    "award": "专业英语八级"
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "time": "2020-10-10",
+                    "award": "班级三好学生"
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "time": "2020-10-10",
+                    "award": "优秀社团干部 "
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "time": "2020-10-10",
+                    "award": "校二等奖学金2次"
+                }
+            ],
+            "page": 1,
+            "index": 3,
+            "height": 300
+        },
+        {
+            "flag": "right",
+            "type": "hobby",
+            "title": "兴趣爱好",
+            "icon": {
+                "type": "1",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "styles": {
+                "type": "4",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "items": [{
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "音乐"
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "篮球"
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "飞机"
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "画画"
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "电影"
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "摄影"
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "跳舞"
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "唱歌"
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "环球"
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "环球"
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "环球"
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "环球"
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "label": "环球"
+                }
+            ],
+            "page": 1,
+            "index": 4,
+            "height": 352.438
+        },
+        {
+            "flag": "right",
+            "type": "evaluation",
+            "title": "自我评价",
+            "icon": {
+                "type": "1",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "styles": {
+                "type": "4",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "items": [{
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "el-icon-chat-round",
+                    "value": "1、有多年行政工作经验，对现代企业行政管理模式有系统的了解和丰富的实践经验；"
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "el-icon-chat-round",
+                    "value": "2、对人力资源管理各个职能模块均有深入的认识，能够指导各个职能模块的工作；"
+                },
+                {
+                    "labelicon": "el-icon-user",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "el-icon-chat-round",
+                    "value": "3、熟悉国家、地区及企业关于合同管理、薪金制度、用人机制、保险福利待遇、培训等方面的法律法规及政策；"
+                }
+            ],
+            "page": 1,
+            "index": 5,
+            "height": 103
+        },
+        {
+            "flag": "right",
+            "type": "certificate",
+            "title": "技能证书",
+            "icon": {
+                "type": "1",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "styles": {
+                "type": "4",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "items": [{
+                    "labelicon": "el-icon-notebook-2",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "type": "专业技能类:",
+                    "certificate": "初级会计证"
+                },
+                {
+                    "labelicon": "el-icon-notebook-2",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "type": "语言技能类:",
+                    "certificate": "英语CET4证书"
+                },
+                {
+                    "labelicon": "el-icon-notebook-2",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "type": "计算机二级:",
+                    "certificate": "熟悉计算机各项操作"
+                }
+            ],
+            "page": 1,
+            "index": 6,
+            "height": 151
+        },
+        {
+            "flag": "right",
+            "type": "offcampus",
+            "title": "校外实践",
+            "icon": {
+                "type": "1",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "styles": {
+                "type": "4",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "items": [{
+                    "labelicon": "",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "time": "2015.10",
+                    "company": "广州XXX科技有限公司",
+                    "post": "行政助理",
+                    "content": "1.起草和修改报告、文稿等；\n2.及时准确的更新员工通讯录；管理公司网络、邮箱；\n3.负责日常办公用品采购、发放、登记管理，办公室设备管理；"
+                },
+                {
+                    "labelicon": "",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "time": "2015.10",
+                    "company": "广州XXX科技有限公司",
+                    "post": "行政助理",
+                    "content": "1.起草和修改报告、文稿等；\n2.及时准确的更新员工通讯录；管理公司网络、邮箱；\n3.负责日常办公用品采购、发放、登记管理，办公室设备管理；"
+                }
+            ],
+            "page": 1,
+            "index": 7,
+            "height": 152
+        },
+        {
+            "flag": "right",
+            "type": "oncampus",
+            "title": "校内实践",
+            "icon": {
+                "type": "1",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "styles": {
+                "type": "4",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "items": [{
+                    "labelicon": "",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "time": "2012.03-2015.04",
+                    "company": "学生会外联部",
+                    "post": "部长",
+                    "content": "1、负责部门的管理，组织策划部门培训，招新等活动；\n2、拉赞助，配合学生会其他部门促成学生活动的顺利举行。"
+                },
+                {
+                    "labelicon": "",
+                    "valuetitleicon": "",
+                    "valuecontenticon": "",
+                    "time": "2012.03-2015.04",
+                    "company": "学生会外联部",
+                    "post": "部长",
+                    "content": "1、负责部门的管理，组织策划部门培训，招新等活动；\n2、拉赞助，配合学生会其他部门促成学生活动的顺利举行。"
+                }
+            ],
+            "page": 1,
+            "index": 8,
+            "height": 152
+        },
+        {
+            "flag": "right",
+            "type": "project",
+            "title": "项目经验",
+            "icon": {
+                "type": "1",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "styles": {
+                "type": "4",
+                "back": {
+                    "transform": ""
+                },
+                "foregound": {
+                    "transform": "shrink-6"
+                }
+            },
+            "items": [{
+                "labelicon": "",
+                "valuetitleicon": "",
+                "valuecontenticon": "",
+                "time": "2016.11-2017.03",
+                "company": "IBM",
+                "post": "行政部助理",
+                "content": "1、负责公司行政事务（包括会议管理、文档管理、印章证照管理、采购管理、资产管理、后勤管理等）；\n2、协助行政宣传部对公司大型员工活动的策划、组织工作；参与公司更名时召开深圳市记者招待会接待工作。"
+            }],
+            "page": 1,
+            "index": 9,
+            "height": 176
+        }
+    ],
+    "resumeStyle": ".imgDiv{margin:0 auto}.divLeft{float:left;width:250px;padding:0 2px}.divLeft,.divRight{box-sizing:border-box}.divRight{float:right;width:696px;padding:0 5px;background-color:#fff}.imgDiv{border:6PX solid #ccc;overflow:hidden}.imgDiv,.imgDiv img{width:150PX;height:200PX}.imgDiv img{object-fit:cover}.imgDiv .img_content{position:relative;width:150PX;height:200PX}.imgDiv .img_content .mask{position:absolute;top:-186px;left:0;width:150px;height:200PX;background:rgba(0,0,0,.3);color:#fff;text-align:center;display:none;cursor:pointer}.awardDiv{border-radius:30px}.awardDiv,.awardDiv .head{position:relative}.awardDiv .head .titleDiv{position:relative;float:left;width:150px}.awardDiv .head .titleDiv .iconleftDiv{position:relative;float:left;width:50px}.awardDiv .head .titleDiv .iconleftDiv .icongroup{position:relative;background:0 0;font-size:20px}.awardDiv .head .titleDiv .iconleftDiv .icongroup .iconback{color:#438edb}.awardDiv .head .titleDiv .titlewordDiv{position:relative;float:left;width:100px;line-height:40px}.awardDiv .head .titleDiv .titlewordDiv .titleword{position:relative;font-family:Microsoft YaHei;font-size:21px;font-weight:700;color:#585858}.awardDiv .head .titleDiv .iconrightDiv{position:relative}.awardDiv .head .titleDiv .iconrightDiv .icongroup{position:relative;background:0 0;font-size:20px}.awardDiv .head .titleDiv .iconrightDiv .icongroup .iconback,.awardDiv .head .titleDiv .iconrightDiv .icongroup .iconforegound{position:relative}.awardDiv .head .styleDiv{position:relative;float:left;width:500px;height:40px}.awardDiv .head .styleDiv .iconleftDiv{float:left;width:10px;height:40px;line-height:40px;text-align:center}.awardDiv .head .styleDiv .iconleftDiv .icongroup{background:0 0;font-size:10px}.awardDiv .head .styleDiv .iconleftDiv .icongroup .iconback{color:#438edb}.awardDiv .head .styleDiv .iconleftDiv .icongroup .iconforegound{position:relative;color:red}.awardDiv .head .styleDiv .boderdDiv{position:relative;float:left;top:20px;background:0 0;width:480px;cursor:pointer;border-top-style:solid;border-top-color:#438edb;border-top-width:1px}.awardDiv .head .styleDiv .iconrightDiv .icongroup{position:relative;background:0 0;font-size:20px}.awardDiv .head .styleDiv .iconrightDiv .icongroup .iconforegound{position:relative}.awardDiv .content{position:relative;display:block}.awardDiv .content .contentdd{position:relative}.awardDiv .content .contentdd .labelDiv{clear:both}.awardDiv .content .contentdd .contentspanlabel{font-size:20px;font-family:Microsoft YaHei}.awardDiv .content .contentdd .contentspanlabel .contentspanlabeldd{display:inline-block}.awardDiv .content .contentdd .contentspanlabel .contentspanlabeldd .labelspan{font-size:16px}.awardDiv .content .contentdd .contentspanlabel .contentspanlabeldd .valuespan{font-size:18px;font-weight:700}.awardDiv .content .contentdd .valueDiv{clear:both}.awardDiv .content .contentdd .contentspanvalue{font-size:14px;font-family:Microsoft YaHei}.awardDiv .content .contentdd .contentspanlabel .contentspanvaluedd{display:inline-block}.certificateDiv{border-radius:30px}.certificateDiv,.certificateDiv .head{position:relative}.certificateDiv .head .titleDiv{position:relative;float:left;width:150px}.certificateDiv .head .titleDiv .iconleftDiv{position:relative;float:left;width:50px}.certificateDiv .head .titleDiv .iconleftDiv .icongroup{position:relative;background:0 0;font-size:20px}.certificateDiv .head .titleDiv .iconleftDiv .icongroup .iconback{color:#438edb}.certificateDiv .head .titleDiv .titlewordDiv{position:relative;float:left;width:100px;line-height:40px}.certificateDiv .head .titleDiv .titlewordDiv .titleword{position:relative;font-family:Microsoft YaHei;font-size:21px;font-weight:700;color:#585858}.certificateDiv .head .titleDiv .iconrightDiv{position:relative}.certificateDiv .head .titleDiv .iconrightDiv .icongroup{position:relative;background:0 0;font-size:20px}.certificateDiv .head .titleDiv .iconrightDiv .icongroup .iconback,.certificateDiv .head .titleDiv .iconrightDiv .icongroup .iconforegound{position:relative}.certificateDiv .head .styleDiv{position:relative;float:left;width:500px;height:40px}.certificateDiv .head .styleDiv .iconleftDiv{float:left;width:10px;height:40px;line-height:40px;text-align:center}.certificateDiv .head .styleDiv .iconleftDiv .icongroup{background:0 0;font-size:10px}.certificateDiv .head .styleDiv .iconleftDiv .icongroup .iconback{color:#438edb}.certificateDiv .head .styleDiv .iconleftDiv .icongroup .iconforegound{position:relative;color:red}.certificateDiv .head .styleDiv .boderdDiv{position:relative;float:left;top:20px;background:0 0;width:480px;cursor:pointer;border-top-style:solid;border-top-color:#438edb;border-top-width:1px}.certificateDiv .head .styleDiv .iconrightDiv .icongroup{position:relative;background:0 0;font-size:20px}.certificateDiv .head .styleDiv .iconrightDiv .icongroup .iconforegound{position:relative}.certificateDiv .content{position:relative;display:block}.certificateDiv .content .contentdd{position:relative}.certificateDiv .content .contentdd .labelDiv{clear:both}.certificateDiv .content .contentdd .contentspanlabel{font-size:20px;font-family:Microsoft YaHei}.certificateDiv .content .contentdd .contentspanlabel .contentspanlabeldd{display:inline-block}.certificateDiv .content .contentdd .contentspanlabel .contentspanlabeldd .labelspan{font-size:16px}.certificateDiv .content .contentdd .contentspanlabel .contentspanlabeldd .valuespan{font-size:18px;font-weight:700}.certificateDiv .content .contentdd .valueDiv{clear:both}.certificateDiv .content .contentdd .contentspanvalue{font-size:14px;font-family:Microsoft YaHei}.certificateDiv .content .contentdd .contentspanlabel .contentspanvaluedd{display:inline-block}.contactDiv{border-radius:30px}.contactDiv,.contactDiv .head{position:relative}.contactDiv .head .titleDiv{float:left;text-align:center}.contactDiv .head .titleDiv,.contactDiv .head .titleDiv .titlewordDiv{position:relative;width:100%}.contactDiv .head .titleDiv .titlewordDiv .titleword{position:relative;font-family:Microsoft YaHei;font-size:18.6px;font-weight:700;color:#438edb}.contactDiv .head .titleDiv .iconrightDiv{position:relative}.contactDiv .head .titleDiv .iconrightDiv .icongroup{position:relative;background:0 0;font-size:20px}.contactDiv .head .titleDiv .iconrightDiv .icongroup .iconback,.contactDiv .head .titleDiv .iconrightDiv .icongroup .iconforegound{position:relative}.contactDiv .head .styleDiv{position:relative;float:left;width:500px;height:40px}.contactDiv .head .styleDiv .iconleftDiv{float:left;width:10px;height:40px;line-height:40px;text-align:center}.contactDiv .head .styleDiv .iconleftDiv .icongroup{background:0 0;font-size:10px}.contactDiv .head .styleDiv .iconleftDiv .icongroup .iconback{color:#438edb}.contactDiv .content{position:relative;display:block}.contactDiv .content .contentdd{margin-inline-start:0;position:relative}.contactDiv .content .contentdd .labelDiv{padding-bottom:10px;border-bottom:.5px solid grey}.contactDiv .content .contentdd .contentspanlabel{font-family:Microsoft YaHei}.contactDiv .content .contentdd .contentspanlabel .contentspanlabeldd{margin:0;width:30%;display:inline-block}.contactDiv .content .contentdd .contentspanlabel .contentspanlabeldd .labelspan{font-size:13.4px;text-align:right}.contactDiv .content .contentdd .contentspanlabel .contentspanlabeldd .valuespan{text-align:left;display:inline-block}.contactDiv .content .contentdd .contentspanlabel .contentspanvaluedd{margin:0;width:50%;display:inline-block}.contactDiv .content .contentdd .contentspanlabel .contentspanvaluedd .labelspan{font-size:13.4px;text-align:right}.contactDiv .content .contentdd .contentspanlabel .contentspanvaluedd .valuespan{text-align:left;display:inline-block}.contactDiv .content .contentdd .valueDiv{clear:both}.contactDiv .content .contentdd .contentspanvalue{font-size:13.4px;font-family:Microsoft YaHei}.educationDiv{border-radius:30px}.educationDiv,.educationDiv .head{position:relative}.educationDiv .head .titleDiv{position:relative;float:left;width:150px}.educationDiv .head .titleDiv .iconleftDiv{position:relative;float:left;width:50px}.educationDiv .head .titleDiv .iconleftDiv .icongroup{position:relative;background:0 0;font-size:20px}.educationDiv .head .titleDiv .iconleftDiv .icongroup .iconback{color:#438edb}.educationDiv .head .titleDiv .titlewordDiv{position:relative;float:left;width:100px;line-height:40px}.educationDiv .head .titleDiv .titlewordDiv .titleword{position:relative;font-family:Microsoft YaHei;font-size:21px;font-weight:700;color:#585858}.educationDiv .head .titleDiv .iconrightDiv{position:relative}.educationDiv .head .titleDiv .iconrightDiv .icongroup{position:relative;background:0 0;font-size:20px}.educationDiv .head .titleDiv .iconrightDiv .icongroup .iconback,.educationDiv .head .titleDiv .iconrightDiv .icongroup .iconforegound{position:relative}.educationDiv .head .styleDiv{position:relative;float:left;width:500px;height:40px}.educationDiv .head .styleDiv .iconleftDiv{float:left;width:10px;height:40px;line-height:40px;text-align:center}.educationDiv .head .styleDiv .iconleftDiv .icongroup{background:0 0;font-size:10px}.educationDiv .head .styleDiv .iconleftDiv .icongroup .iconback{color:#438edb}.educationDiv .head .styleDiv .iconleftDiv .icongroup .iconforegound{position:relative;color:red}.educationDiv .head .styleDiv .boderdDiv{position:relative;float:left;top:20px;background:0 0;width:480px;cursor:pointer;border-top-style:solid;border-top-color:#438edb;border-top-width:1px}.educationDiv .head .styleDiv .iconrightDiv .icongroup .iconforegound{position:relative}.educationDiv .content{position:relative;display:block}.educationDiv .content .contentdd{position:relative}.educationDiv .content .contentdd .labelDiv{clear:both}.educationDiv .content .contentdd .contentspanlabel{font-size:16px;font-family:Microsoft YaHei;font-weight:700}.educationDiv .content .contentdd .contentspanlabel .contentspanlabeldd{display:inline-block}.educationDiv .content .contentdd .valueDiv{clear:both}.educationDiv .content .contentdd .contentspanvalue{font-size:14px;font-family:Microsoft YaHei}.educationDiv .content .contentdd .contentspanlabel .contentspanvaluedd{display:block}.evalutionDiv{border-radius:30px}.evalutionDiv,.evalutionDiv .head{position:relative}.evalutionDiv .head .titleDiv{position:relative;float:left;width:150px}.evalutionDiv .head .titleDiv .iconleftDiv{position:relative;float:left;width:50px}.evalutionDiv .head .titleDiv .iconleftDiv .icongroup{position:relative;background:0 0;font-size:20px}.evalutionDiv .head .titleDiv .iconleftDiv .icongroup .iconback{color:#438edb}.evalutionDiv .head .titleDiv .titlewordDiv{position:relative;float:left;width:100px;line-height:40px}.evalutionDiv .head .titleDiv .titlewordDiv .titleword{position:relative;font-family:Microsoft YaHei;font-size:21px;font-weight:700;color:#585858}.evalutionDiv .head .titleDiv .iconrightDiv{position:relative}.evalutionDiv .head .titleDiv .iconrightDiv .icongroup{position:relative;background:0 0;font-size:20px}.evalutionDiv .head .titleDiv .iconrightDiv .icongroup .iconback,.evalutionDiv .head .titleDiv .iconrightDiv .icongroup .iconforegound{position:relative}.evalutionDiv .head .styleDiv{position:relative;float:left;width:500px;height:40px}.evalutionDiv .head .styleDiv .iconleftDiv{float:left;width:10px;height:40px;line-height:40px;text-align:center}.evalutionDiv .head .styleDiv .iconleftDiv .icongroup{background:0 0;font-size:10px}.evalutionDiv .head .styleDiv .iconleftDiv .icongroup .iconback{color:#438edb}.evalutionDiv .head .styleDiv .iconleftDiv .icongroup .iconforegound{position:relative;color:red}.evalutionDiv .head .styleDiv .boderdDiv{position:relative;float:left;top:20px;background:0 0;width:480px;cursor:pointer;border-top-style:solid;border-top-color:#438edb;border-top-width:1px}.evalutionDiv .head .styleDiv .iconrightDiv .icongroup{position:relative;background:0 0;font-size:20px}.evalutionDiv .head .styleDiv .iconrightDiv .icongroup .iconforegound{position:relative}.evalutionDiv .content{position:relative;display:block}.evalutionDiv .content .contentdd{position:relative}.evalutionDiv .content .contentdd .labelDiv{clear:both}.evalutionDiv .content .contentdd .contentspanlabel{font-size:16px;font-family:Microsoft YaHei;font-weight:700}.evalutionDiv .content .contentdd .contentspanlabel .contentspanlabeldd{display:inline-block}.evalutionDiv .content .contentdd .valueDiv{clear:both}.evalutionDiv .content .contentdd .contentspanvalue{font-size:14px;font-family:Microsoft YaHei}.evalutionDiv .content .contentdd .contentspanlabel .contentspanvaluedd{display:block}.experienceDiv{border-radius:30px}.experienceDiv,.experienceDiv .head{position:relative}.experienceDiv .head .titleDiv{position:relative;float:left;width:150px}.experienceDiv .head .titleDiv .iconleftDiv{position:relative;float:left;width:50px}.experienceDiv .head .titleDiv .iconleftDiv .icongroup{position:relative;background:0 0;font-size:20px}.experienceDiv .head .titleDiv .iconleftDiv .icongroup .iconback{color:#438edb}.experienceDiv .head .titleDiv .titlewordDiv{position:relative;float:left;width:100px;line-height:40px}.experienceDiv .head .titleDiv .titlewordDiv .titleword{position:relative;font-family:Microsoft YaHei;font-size:21px;font-weight:700;color:#585858}.experienceDiv .head .titleDiv .iconrightDiv{position:relative}.experienceDiv .head .titleDiv .iconrightDiv .icongroup{position:relative;background:0 0;font-size:20px}.experienceDiv .head .titleDiv .iconrightDiv .icongroup .iconback,.experienceDiv .head .titleDiv .iconrightDiv .icongroup .iconforegound{position:relative}.experienceDiv .head .styleDiv{position:relative;float:left;width:500px;height:40px}.experienceDiv .head .styleDiv .iconleftDiv{float:left;width:10px;height:40px;line-height:40px;text-align:center}.experienceDiv .head .styleDiv .iconleftDiv .icongroup{background:0 0;font-size:10px}.experienceDiv .head .styleDiv .iconleftDiv .icongroup .iconback{color:#438edb}.experienceDiv .head .styleDiv .iconleftDiv .icongroup .iconforegound{position:relative;color:red}.experienceDiv .head .styleDiv .boderdDiv{position:relative;float:left;top:20px;background:0 0;width:480px;cursor:pointer;border-top-style:solid;border-top-color:#438edb;border-top-width:1px}.educationDiv .head .styleDiv .iconrightDiv .icongroup{position:relative;background:0 0;font-size:20px}.experienceDiv .head .styleDiv .iconrightDiv .icongroup .iconforegound{position:relative}.experienceDiv .content{position:relative;display:block}.experienceDiv .content .contentdd{position:relative}.experienceDiv .content .contentdd .labelDiv{clear:both}.experienceDiv .content .contentdd .contentspanlabel{font-size:16px;font-family:Microsoft YaHei;font-weight:700}.experienceDiv .content .contentdd .contentspanlabel .contentspanlabeldd{display:inline-block}.experienceDiv .content .contentdd .valueDiv{clear:both}.experienceDiv .content .contentdd .contentspanvalue{font-size:14px;font-family:Microsoft YaHei}.experienceDiv .content .contentdd .contentspanlabel .contentspanvaluedd{display:block}.hobbyDiv{border-radius:30px}.hobbyDiv,.hobbyDiv .head{position:relative}.hobbyDiv .head .titleDiv{position:relative;float:left;width:150px}.hobbyDiv .head .titleDiv .iconleftDiv{position:relative;float:left;width:50px}.hobbyDiv .head .titleDiv .iconleftDiv .icongroup{position:relative;background:0 0;font-size:20px}.hobbyDiv .head .titleDiv .iconleftDiv .icongroup .iconback{color:#438edb}.hobbyDiv .head .titleDiv .titlewordDiv{position:relative;float:left;width:100px;line-height:40px}.hobbyDiv .head .titleDiv .titlewordDiv .titleword{position:relative;font-family:Microsoft YaHei;font-size:21px;font-weight:700;color:#585858}.hobbyDiv .head .titleDiv .iconrightDiv{position:relative}.hobbyDiv .head .titleDiv .iconrightDiv .icongroup{position:relative;background:0 0;font-size:20px}.hobbyDiv .head .titleDiv .iconrightDiv .icongroup .iconback,.hobbyDiv .head .titleDiv .iconrightDiv .icongroup .iconforegound{position:relative}.hobbyDiv .head .styleDiv{position:relative;float:left;width:500px;height:40px}.hobbyDiv .head .styleDiv .iconleftDiv{float:left;width:10px;height:40px;line-height:40px;text-align:center}.hobbyDiv .head .styleDiv .iconleftDiv .icongroup{background:0 0;font-size:10px}.hobbyDiv .head .styleDiv .iconleftDiv .icongroup .iconback{color:#438edb}.hobbyDiv .head .styleDiv .iconleftDiv .icongroup .iconforegound{position:relative;color:red}.hobbyDiv .head .styleDiv .boderdDiv{position:relative;float:left;top:20px;background:0 0;width:480px;cursor:pointer;border-top-style:solid;border-top-color:#438edb;border-top-width:1px}.hobbyDiv .head .styleDiv .iconrightDiv .icongroup{position:relative;background:0 0;font-size:20px}.hobbyDiv .head .styleDiv .iconrightDiv .icongroup .iconforegound{position:relative}.hobbyDiv .content{position:relative;display:block}.hobbyDiv .content .contentdd{position:relative}.hobbyDiv .content .contentdd .labelDiv{clear:both}.hobbyDiv .content .contentdd .contentspanlabel{font-size:16px;font-family:Microsoft YaHei;font-weight:700}.hobbyDiv .content .contentdd .contentspanlabel .contentspanlabeldd{display:inline-block}.hobbyDiv .content .contentdd .contentspanlabel .contentspanlabeldd .labelspan{font-size:16px}.hobbyDiv .content .contentdd .valueDiv{clear:both}.hobbyDiv .content .contentdd .contentspanvalue{font-size:14px;font-family:Microsoft YaHei}.hobbyDiv .content .contentdd .contentspanlabel .contentspanvaluedd{display:block}.infoDiv{border-radius:30px}.infoDiv,.infoDiv .head{position:relative}.infoDiv .head .titleDiv{float:left;text-align:center}.infoDiv .head .titleDiv,.infoDiv .head .titleDiv .titlewordDiv{position:relative;width:100%}.infoDiv .head .titleDiv .titlewordDiv .titleword{position:relative;font-family:Microsoft YaHei;font-size:18.6px;font-weight:700;color:#438edb}.infoDiv .head .titleDiv .iconrightDiv{position:relative}.infoDiv .head .titleDiv .iconrightDiv .icongroup{position:relative;background:0 0;font-size:20px}.infoDiv .head .titleDiv .iconrightDiv .icongroup .iconback,.infoDiv .head .titleDiv .iconrightDiv .icongroup .iconforegound{position:relative}.infoDiv .head .styleDiv{position:relative;float:left;width:500px;height:40px}.infoDiv .head .styleDiv .iconleftDiv{float:left;width:10px;height:40px;line-height:40px;text-align:center}.infoDiv .head .styleDiv .iconleftDiv .icongroup{background:0 0;font-size:10px}.infoDiv .head .styleDiv .iconleftDiv .icongroup .iconback{color:#438edb}.infoDiv .content{position:relative;display:block}.infoDiv .content .contentdd{margin-inline-start:0;position:relative}.infoDiv .content .contentdd .labelDiv{padding-bottom:10px;border-bottom:.5px solid grey}.infoDiv .content .contentdd .contentspanlabel{font-family:Microsoft YaHei}.infoDiv .content .contentdd .contentspanlabel .contentspanlabeldd{margin:0;width:50%;display:inline-block}.infoDiv .content .contentdd .contentspanlabel .contentspanlabeldd .labelspan{font-size:13.4px;text-align:right}.infoDiv .content .contentdd .contentspanlabel .contentspanlabeldd .valuespan{text-align:left;display:inline-block}.infoDiv .content .contentdd .valueDiv{clear:both}.infoDiv .content .contentdd .contentspanvalue{font-size:13.4px;font-family:Microsoft YaHei}.offcampusDiv{border-radius:30px}.offcampusDiv,.offcampusDiv .head{position:relative}.offcampusDiv .head .titleDiv{position:relative;float:left;width:150px}.offcampusDiv .head .titleDiv .iconleftDiv{position:relative;float:left;width:50px}.offcampusDiv .head .titleDiv .iconleftDiv .icongroup{position:relative;background:0 0;font-size:20px}.offcampusDiv .head .titleDiv .iconleftDiv .icongroup .iconback{color:#438edb}.offcampusDiv .head .titleDiv .titlewordDiv{position:relative;float:left;width:100px;line-height:40px}.offcampusDiv .head .titleDiv .titlewordDiv .titleword{position:relative;font-family:Microsoft YaHei;font-size:21px;font-weight:700;color:#585858}.offcampusDiv .head .titleDiv .iconrightDiv{position:relative}.offcampusDiv .head .titleDiv .iconrightDiv .icongroup{position:relative;background:0 0;font-size:20px}.offcampusDiv .head .titleDiv .iconrightDiv .icongroup .iconback,.offcampusDiv .head .titleDiv .iconrightDiv .icongroup .iconforegound{position:relative}.offcampusDiv .head .styleDiv{position:relative;float:left;width:500px;height:40px}.offcampusDiv .head .styleDiv .iconleftDiv{float:left;width:10px;height:40px;line-height:40px;text-align:center}.offcampusDiv .head .styleDiv .iconleftDiv .icongroup{background:0 0;font-size:10px}.offcampusDiv .head .styleDiv .iconleftDiv .icongroup .iconback{color:#438edb}.offcampusDiv .head .styleDiv .iconleftDiv .icongroup .iconforegound{position:relative;color:red}.offcampusDiv .head .styleDiv .boderdDiv{position:relative;float:left;top:20px;background:0 0;width:480px;cursor:pointer;border-top-style:solid;border-top-color:#438edb;border-top-width:1px}.offcampusDiv .head .styleDiv .iconrightDiv .icongroup{position:relative;background:0 0;font-size:20px}.offcampusDiv .head .styleDiv .iconrightDiv .icongroup .iconforegound{position:relative}.offcampusDiv .content{position:relative;display:block}.offcampusDiv .content .contentdd{position:relative}.offcampusDiv .content .contentdd .labelDiv{clear:both}.offcampusDiv .content .contentdd .contentspanlabel{font-size:16px;font-family:Microsoft YaHei;font-weight:700}.offcampusDiv .content .contentdd .contentspanlabel .contentspanlabeldd{display:inline-block}.offcampusDiv .content .contentdd .valueDiv{clear:both}.offcampusDiv .content .contentdd .contentspanvalue{font-size:14px;font-family:Microsoft YaHei}.offcampusDiv .content .contentdd .contentspanlabel .contentspanvaluedd{display:block}.oncampusDiv{border-radius:30px}.oncampusDiv,.oncampusDiv .head{position:relative}.oncampusDiv .head .titleDiv{position:relative;float:left;width:150px}.oncampusDiv .head .titleDiv .iconleftDiv{position:relative;float:left;width:50px}.oncampusDiv .head .titleDiv .iconleftDiv .icongroup{position:relative;background:0 0;font-size:20px}.oncampusDiv .head .titleDiv .iconleftDiv .icongroup .iconback{color:#438edb}.oncampusDiv .head .titleDiv .titlewordDiv{position:relative;float:left;width:100px;line-height:40px}.oncampusDiv .head .titleDiv .titlewordDiv .titleword{position:relative;font-family:Microsoft YaHei;font-size:21px;font-weight:700;color:#585858}.oncampusDiv .head .titleDiv .iconrightDiv{position:relative}.oncampusDiv .head .titleDiv .iconrightDiv .icongroup{position:relative;background:0 0;font-size:20px}.oncampusDiv .head .titleDiv .iconrightDiv .icongroup .iconback,.oncampusDiv .head .titleDiv .iconrightDiv .icongroup .iconforegound{position:relative}.oncampusDiv .head .styleDiv{position:relative;float:left;width:500px;height:40px}.oncampusDiv .head .styleDiv .iconleftDiv{float:left;width:10px;height:40px;line-height:40px;text-align:center}.oncampusDiv .head .styleDiv .iconleftDiv .icongroup{background:0 0;font-size:10px}.oncampusDiv .head .styleDiv .iconleftDiv .icongroup .iconback{color:#438edb}.oncampusDiv .head .styleDiv .iconleftDiv .icongroup .iconforegound{position:relative;color:red}.oncampusDiv .head .styleDiv .boderdDiv{position:relative;float:left;top:20px;background:0 0;width:480px;cursor:pointer;border-top-style:solid;border-top-color:#438edb;border-top-width:1px}.oncampusDiv .head .styleDiv .iconrightDiv .icongroup{position:relative;background:0 0;font-size:20px}.oncampusDiv .head .styleDiv .iconrightDiv .icongroup .iconforegound{position:relative}.oncampusDiv .content{position:relative;display:block}.oncampusDiv .content .contentdd{position:relative}.oncampusDiv .content .contentdd .labelDiv{clear:both}.oncampusDiv .content .contentdd .contentspanlabel{font-size:16px;font-family:Microsoft YaHei;font-weight:700}.oncampusDiv .content .contentdd .contentspanlabel .contentspanlabeldd{display:inline-block}.oncampusDiv .content .contentdd .valueDiv{clear:both}.oncampusDiv .content .contentdd .contentspanvalue{font-size:14px;font-family:Microsoft YaHei}.oncampusDiv .content .contentdd .contentspanlabel .contentspanvaluedd{display:block}.profileDiv{border-radius:10px}.profileDiv,.profileDiv .head,.profileDiv .head .name{position:relative;text-align:center}.profileDiv .head .name .nametitle{position:relative;color:#fff;font-size:29px;color:#438edb;font-weight:700}.profileDiv .head .jobpost{position:relative;text-align:center;background-color:#438edb;height:40px;padding:4px 0}.profileDiv .head .jobpost .jobposttitle{position:relative;color:#fff;font-size:22px}.projectDiv{border-radius:30px}.projectDiv,.projectDiv .head{position:relative}.projectDiv .head .titleDiv{position:relative;float:left;width:150px}.projectDiv .head .titleDiv .iconleftDiv{position:relative;float:left;width:50px}.projectDiv .head .titleDiv .iconleftDiv .icongroup{position:relative;background:0 0;font-size:20px}.projectDiv .head .titleDiv .iconleftDiv .icongroup .iconback{color:#438edb}.projectDiv .head .titleDiv .titlewordDiv{position:relative;float:left;width:100px;line-height:40px}.projectDiv .head .titleDiv .titlewordDiv .titleword{position:relative;font-family:Microsoft YaHei;font-size:21px;font-weight:700;color:#585858}.projectDiv .head .titleDiv .iconrightDiv{position:relative}.projectDiv .head .titleDiv .iconrightDiv .icongroup{position:relative;background:0 0;font-size:20px}.projectDiv .head .titleDiv .iconrightDiv .icongroup .iconback,.projectDiv .head .titleDiv .iconrightDiv .icongroup .iconforegound{position:relative}.projectDiv .head .styleDiv{position:relative;float:left;width:500px;height:40px}.projectDiv .head .styleDiv .iconleftDiv{float:left;width:10px;height:40px;line-height:40px;text-align:center}.projectDiv .head .styleDiv .iconleftDiv .icongroup{background:0 0;font-size:10px}.projectDiv .head .styleDiv .iconleftDiv .icongroup .iconback{color:#438edb}.projectDiv .head .styleDiv .iconleftDiv .icongroup .iconforegound{position:relative;color:red}.projectDiv .head .styleDiv .boderdDiv{position:relative;float:left;top:20px;background:0 0;width:480px;cursor:pointer;border-top-style:solid;border-top-color:#438edb;border-top-width:1px}.projectDiv .head .styleDiv .iconrightDiv .icongroup{position:relative;background:0 0;font-size:20px}.projectDiv .head .styleDiv .iconrightDiv .icongroup .iconforegound{position:relative}.projectDiv .content{position:relative;display:block}.projectDiv .content .contentdd{position:relative}.projectDiv .content .contentdd .labelDiv{clear:both}.projectDiv .content .contentdd .contentspanlabel{font-size:16px;font-family:Microsoft YaHei;font-weight:700}.projectDiv .content .contentdd .contentspanlabel .contentspanlabeldd{display:inline-block}.projectDiv .content .contentdd .valueDiv{clear:both}.projectDiv .content .contentdd .contentspanvalue{font-size:14px;font-family:Microsoft YaHei}.projectDiv .content .contentdd .contentspanlabel .contentspanvaluedd{display:block}.skillDiv{border-radius:30px}.skillDiv,.skillDiv .head{position:relative}.skillDiv .head .titleDiv{float:left;text-align:center}.skillDiv .head .titleDiv,.skillDiv .head .titleDiv .titlewordDiv{position:relative;width:100%}.skillDiv .head .titleDiv .titlewordDiv .titleword{position:relative;font-family:Microsoft YaHei;font-size:18.6px;font-weight:700;color:#438edb}.skillDiv .head .titleDiv .iconrightDiv{position:relative}.skillDiv .head .titleDiv .iconrightDiv .icongroup{position:relative;background:0 0;font-size:20px}.skillDiv .head .titleDiv .iconrightDiv .icongroup .iconback,.skillDiv .head .titleDiv .iconrightDiv .icongroup .iconforegound{position:relative}.skillDiv .head .styleDiv{position:relative;float:left;width:500px;height:40px}.skillDiv .head .styleDiv .iconleftDiv{float:left;width:10px;height:40px;line-height:40px;text-align:center}.skillDiv .head .styleDiv .iconleftDiv .icongroup{background:0 0;font-size:10px}.skillDiv .head .styleDiv .iconleftDiv .icongroup .iconback{color:#438edb}.skillDiv .content{position:relative;display:block}.skillDiv .content .contentdd{margin-inline-start:0;position:relative}.skillDiv .content .contentdd .labelDiv{padding-bottom:0;border-bottom:.5px solid grey}.skillDiv .content .contentdd .contentspanlabel{font-family:Microsoft YaHei}.skillDiv .content .contentdd .contentspanlabel .contentspanlabeldd{margin:0;width:50%;display:inline-block}.skillDiv .content .contentdd .contentspanlabel .contentspanlabeldd .labelspan{font-size:13.4px;text-align:right;position:relative;top:-14px}.skillDiv .content .contentdd .contentspanlabel .contentspanlabeldd .valuespan{text-align:left;display:inline-block;width:80%}.skillDiv .content .contentdd .valueDiv{clear:both}.skillDiv .content .contentdd .contentspanvalue{font-size:13.4px;font-family:Microsoft YaHei}",
+
+}
+
 }
